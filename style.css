@@ -1,9 +1,10 @@
 img {
 	display: block;
-	width: 1192px;
-	height: 1588px;
+	position: absolute;
+	width: 596px;
+	height: 794px;
 	left: 50%;
 	top: 50%;
-	margin-left: -596px;
-	margin-top: -794px;
+	margin-left: -298px;
+	margin-top: -397px;
 }
